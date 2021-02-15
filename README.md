@@ -33,7 +33,6 @@ Using the <a href="https://docs.genius.com/">Genius.com API</a>, a little bit of
   -d, --debug           This flag will set logging to Debug mode.
   -p ARTIST_TO_PRUNE, --prune ARTIST_TO_PRUNE Name of the artist who's songs we want to prune
   -l LIST_SONGS_BY, --listsongsby LIST_SONGS_BY Name of Artist we want to get songs for.
-  -m MAPPING_FILE, --mapping MAPPING_FILE Name of custom mapping file you want to use.
   -v, --verbose         Flag will set logging to Debug mode like -d.
 ```
 ----------------------------------------------------------------
