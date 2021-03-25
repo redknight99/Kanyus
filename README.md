@@ -1,6 +1,5 @@
 # Kanyus
 
-<img src="kanyus.jpeg" width="250" height="250" />
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img alt="MadeWith" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg">
