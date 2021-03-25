@@ -18,7 +18,7 @@ Because sometimes in order to show the world that you are a musical genius, you 
 ## No, but really, why?
 Because Genius.com gameifies their <a hre="https://genius.com/discussions/331182-What-does-the-iq-points">user account editorial privileges </a> and sharing musical knowledge is cool. Kanyus helps you find ways to share you knowledge about your favorite artists on Genius.com at scale.
 ```
-    Example in case the link above is broken:
+    Example in case the link for editorial privileges above is broken:
     100 IQ: You can add a song & start a thread
     150 IQ: You’ll be able to post in the forums.
     300 IQ: You can edit unlocked metadata & your upvotes will be counted as double (+4 instead of +2).
