@@ -13,7 +13,18 @@
 </p>
 
 ## Why
-Because sometimes in order to show the world that you are a musical genius, you need to automate! Kanyus is designed to help you scale up your efforts to reach <a href="https://genius.com/albums/Genius/Genius-users-hall-of-fame">Genius.com Hall of Fame</a> by helping you find unannotated songs from your favorite artists. 
+Because sometimes in order to show the world that you are a musical genius, you need to automate! Kanyus is designed to help you scale up your efforts to reach <a href="https://genius.com/albums/Genius/Genius-users-hall-of-fame">Genius.com Hall of Fame</a> by helping you find unannotated songs from your favorite artists on Genius.com .
+
+## No, but really, why?
+Because Genius.com gameifies their <a hre="https://genius.com/discussions/331182-What-does-the-iq-points">user account editorial privileges</a> and sharing musical knowledge is cool. 
+```
+    Example in case the link above is broken:
+    100 IQ: You can add a song & start a thread
+    150 IQ: You’ll be able to post in the forums.
+    300 IQ: You can edit unlocked metadata & your upvotes will be counted as double (+4 instead of +2).
+    600 IQ: You’ll be able to annotate on locked songs & correct/edit lyrics of locked songs.
+    3,000 IQ: Edit a lyric with more than 5,000 page views
+```
 
 ## How
 Using the <a href="https://docs.genius.com/">Genius.com API</a>, a little bit of Python, and some meta-API magic.
