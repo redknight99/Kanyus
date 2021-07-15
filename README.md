@@ -16,7 +16,7 @@
 Because sometimes in order to show the world that you are a musical genius, you need to automate! Kanyus is designed to help you scale up your efforts to reach the             <a href="https://genius.com/albums/Genius/Genius-users-hall-of-fame">Genius.com Hall of Fame</a> by helping you find unannotated songs from your favorite artists on Genius.com .
 
 ## No, but really, why?
-Because Genius.com gameifies their <a hre="https://genius.com/discussions/331182-What-does-the-iq-points">user account editorial privileges </a> and sharing musical knowledge is cool. Kanyus helps you find ways to share you knowledge about your favorite artists on Genius.com at scale.
+Because Genius.com gameifies their <a hre="https://genius.com/discussions/331182-What-does-the-iq-points">user account editorial privileges </a> and this tool will help you reach greater Genius.com editorial access quickly. Also, sharing musical knowledge is cool. Kanyus helps you find ways to share you knowledge about your favorite artists on Genius.com at scale.
 ```
     Example in case the link for editorial privileges above is broken:
     100 IQ: You can add a song & start a thread
